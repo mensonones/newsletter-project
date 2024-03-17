@@ -102,5 +102,5 @@ Este projeto é licenciado sob a licença MIT.
 
 * Documentação do Django: [https://www.djangoproject.com/](https://www.djangoproject.com/)
 * Documentação do Django REST Framework: [https://www.django-rest-framework.org/](https://www.django-rest-framework.org/)
-* Documentação do Celery: [https://docs.celeryq.dev/en/stable/]([https://www.medicalnewstoday.com/articles/270678](https://docs.celeryq.dev/en/stable/))
+* Documentação do Celery: [https://docs.celeryq.dev/en/stable/](https://docs.celeryq.dev/en/stable/)
 * Documentação do RabbitMQ: [https://www.rabbitmq.com/](https://www.rabbitmq.com/)
