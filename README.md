@@ -23,7 +23,7 @@ Este projeto é uma API RESTful simples para gerenciar newsletters em Python e D
 1. Clone o repositório:
 
 ```
-git clone https://github.com/mensonones/newsletterProject.git
+git clone https://github.com/mensonones/newsletter-project.git
 ```
 
 2. Crie um ambiente virtual e instale as dependências:
